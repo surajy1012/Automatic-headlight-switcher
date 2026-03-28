@@ -1,4 +1,4 @@
-#🚗 Automatic Headlight Beam Controller using OpenCV
+# 🚗 Automatic Headlight Beam Controller using OpenCV
 
 This project uses a webcam and computer vision techniques to **automatically switch between high and low beam headlights** based on real-time detection of oncoming light sources. It's designed to reduce glare for other drivers during night driving and enhance road safety.
 
